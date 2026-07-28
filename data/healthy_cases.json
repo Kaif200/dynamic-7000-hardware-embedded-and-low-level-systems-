@@ -1,0 +1,12 @@
+{
+    "vin": 24,
+    "vout": 12,
+    "load_current": 5,
+    "switching_frequency": 100000,
+    "inductance": 0.0001,
+    "capacitance": 0.00022,
+    "esr": 0.02,
+    "inductor_ripple": 1.2,
+    "output_ripple": 0.025,
+    "fault": "Healthy"
+}
